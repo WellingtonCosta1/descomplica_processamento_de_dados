@@ -20,7 +20,7 @@ Este projeto tem como objetivo praticar conceitos fundamentais de manipulação 
 
 ## 💻 Tecnologias utilizadas
 
-- 'Python'
+- Python
 - Pandas
 - NumPy
 
